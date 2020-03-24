@@ -1,0 +1,276 @@
+{
+  "message": {
+    "header": {
+      "status_code": 200,
+      "execute_time": 0.007504940032959,
+      "available": 104
+    },
+    "body": {
+      "album_list": [
+        {
+          "album": {
+            "album_id": 30238987,
+            "album_mbid": "",
+            "album_name": "Origins",
+            "album_rating": 100,
+            "album_release_date": "2018-11-09",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 34,
+                    "music_genre_parent_id": 0,
+                    "music_genre_name": "Music",
+                    "music_genre_name_extended": "Music",
+                    "music_genre_vanity": "Music"
+                  }
+                },
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            },
+            "album_pline": "\u2117 2018 KIDinaKORNER/Interscope Records",
+            "album_copyright": "\u2117 2018 KIDinaKORNER/Interscope Records",
+            "album_label": "Kid Ina Korner / Interscope",
+            "restricted": 0,
+            "updated_time": "2019-10-24T20:41:16Z"
+          }
+        },
+        {
+          "album": {
+            "album_id": 28220887,
+            "album_mbid": "",
+            "album_name": "Evolve",
+            "album_rating": 100,
+            "album_release_date": "2017-06-23",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            },
+            "album_pline": "2018 KIDinaKORNER/Interscope Records",
+            "album_copyright": "2018 KIDinaKORNER/Interscope Records",
+            "album_label": "Kid Ina Korner / Interscope",
+            "restricted": 0,
+            "updated_time": "2018-08-03T20:18:18Z"
+          }
+        },
+        {
+          "album": {
+            "album_id": 26086829,
+            "album_mbid": "",
+            "album_name": "Evolve",
+            "album_rating": 100,
+            "album_release_date": "",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            },
+            "album_pline": "2017 KIDinaKORNER/Interscope Records",
+            "album_copyright": "2017 KIDinaKORNER/Interscope Records",
+            "album_label": "Kid Ina Korner / Interscope",
+            "restricted": 0,
+            "updated_time": "2018-07-17T09:45:26Z"
+          }
+        },
+        {
+          "album": {
+            "album_id": 11304981,
+            "album_mbid": "012244db-1e21-4c19-9072-c57167f20782",
+            "album_name": "Night Visions",
+            "album_rating": 100,
+            "album_release_date": "2012-09-04",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": { "music_genre_list": [] },
+            "album_pline": "",
+            "album_copyright": "",
+            "album_label": "",
+            "restricted": 0,
+            "updated_time": "2016-09-19T08:18:41Z"
+          }
+        },
+        {
+          "album": {
+            "album_id": 11317908,
+            "album_mbid": "7cd56a8e-7c22-4354-b9de-ad1786f921a1",
+            "album_name": "Night Visions",
+            "album_rating": 100,
+            "album_release_date": "2013-04-01",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": { "music_genre_list": [] },
+            "album_pline": "",
+            "album_copyright": "",
+            "album_label": "",
+            "restricted": 0,
+            "updated_time": "2016-09-19T08:18:41Z"
+          }
+        },
+        {
+          "album": {
+            "album_id": 11333508,
+            "album_mbid": "",
+            "album_name": "Night Visions",
+            "album_rating": 100,
+            "album_release_date": "",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            },
+            "album_pline": "(P) 2012 KIDinaKORNER/Interscope Records",
+            "album_copyright": "(C) 2012 KIDinaKORNER/Interscope Records",
+            "album_label": "Kid Ina Korner / Interscope",
+            "restricted": 0,
+            "updated_time": "2018-07-17T09:45:43Z"
+          }
+        },
+        {
+          "album": {
+            "album_id": 11333511,
+            "album_mbid": "",
+            "album_name": "Night Visions",
+            "album_rating": 100,
+            "album_release_date": "2013-01-01",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            },
+            "album_pline": "2013 KIDinaKORNER/Interscope Records",
+            "album_copyright": "2013 KIDinaKORNER/Interscope Records",
+            "album_label": "Kid Ina Korner / Interscope",
+            "restricted": 0,
+            "updated_time": "2019-05-28T08:48:51Z"
+          }
+        },
+        {
+          "album": {
+            "album_id": 11333512,
+            "album_mbid": "",
+            "album_name": "Night Visions",
+            "album_rating": 100,
+            "album_release_date": "",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            },
+            "album_pline": "(P) 2013 KIDinaKORNER/Interscope Records",
+            "album_copyright": "(C) 2013 KIDinaKORNER/Interscope Records",
+            "album_label": "Kid Ina Korner / Interscope",
+            "restricted": 0,
+            "updated_time": "2018-07-17T09:45:43Z"
+          }
+        },
+        {
+          "album": {
+            "album_id": 14245841,
+            "album_mbid": "94d0e1cb-f090-4ed4-bc25-381a6c969a4b",
+            "album_name": "Night Visions",
+            "album_rating": 100,
+            "album_release_date": "2012-09-18",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": { "music_genre_list": [] },
+            "album_pline": "",
+            "album_copyright": "",
+            "album_label": "",
+            "restricted": 0,
+            "updated_time": "2016-09-19T08:18:41Z"
+          }
+        },
+        {
+          "album": {
+            "album_id": 14247452,
+            "album_mbid": "fb44a782-9e6b-4af3-a634-76373cf42264",
+            "album_name": "Night Visions",
+            "album_rating": 100,
+            "album_release_date": "2012-09-04",
+            "artist_id": 13895270,
+            "artist_name": "Imagine Dragons",
+            "primary_genres": {
+              "music_genre_list": [
+                {
+                  "music_genre": {
+                    "music_genre_id": 20,
+                    "music_genre_parent_id": 34,
+                    "music_genre_name": "Alternative",
+                    "music_genre_name_extended": "Alternative",
+                    "music_genre_vanity": "Alternative"
+                  }
+                }
+              ]
+            },
+            "album_pline": "2012 KIDinaKORNER/Interscope Records",
+            "album_copyright": "2012 KIDinaKORNER/Interscope Records",
+            "album_label": "Kid Ina Korner / Interscope",
+            "restricted": 0,
+            "updated_time": "2019-05-28T19:06:47Z"
+          }
+        }
+      ]
+    }
+  }
+}
