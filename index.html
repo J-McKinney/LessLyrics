@@ -25,7 +25,7 @@
 </header>
 
 <body>
-    <div class='container'>
+    <!-- <div class='container'>
         <form>
             <div class="form-group">
                 <label for="songSearchInput">First Song</label>
@@ -37,6 +37,31 @@
             </div>
             <button type="submit" class="btn btn-primary">Search</button>
         </form>
+    </div> -->
+    <div class="container-fluid">
+        <div class="row text-center">
+            <h2>GENIUS</h2>
+        </div>
+        <div class="row text-center">
+            <h3>RANDOM SONG GENERATOR</h3><br>
+        </div>
+        <div class="row text-center">
+            <div class="col-xs-6 text-right" id="songImage"></div>
+            <div class="col-xs-6 text-left">
+                <p id="song"></p>
+                <p id="artist"></p>
+                <p id="releaseDate"></p>
+                <button class="button" onclick="newRandomSong()"><span>NEW SONG</span></button>
+                <br>
+                <!-- <button class="button tweet" onclick="tweetSong()"><span>TWEET SONG <i
+                            class="fa fa-twitter"></i></span></button> -->
+
+
+            </div>
+        </div>
+        <!--<div class="row text-center">
+          <button class="button" onclick="newRandomSong()"><span>NEW SONG</span></button>
+        </div>-->
     </div>
 </body>
 <script type='text/javascript' src='magic.js'></script>
