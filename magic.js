@@ -1,9 +1,9 @@
 var CLIENTID =
-  "Eq8KSecb2Yz4Lq--EUjuGWH_8OifHCRwdwHr1ztKdLx5Qk_zCZG--AXPSQzMXhL-";
+  "";
 var CLIENTSECRET =
-  "-3Ynmxt9BZab3Qs5sbr_GdzGxXoGqSqbSISFuEQwquYeVm-5-A3nFIcgUOvDSY731GT-hhJtvTK5jYDccT7juQ";
+  "";
 var accessToken =
-  "?access_token=CXyFeSBw2lAdG41xkuU3LS6a_nwyxwwCz2dCkUohw-rw0C49x2HqP__6_4is5RPx";
+  "";
 var API = "https://api.genius.com/search";
 var APISong = "https://api.genius.com/songs/";
 var songID = "4";
